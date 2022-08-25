@@ -1,0 +1,2 @@
+html estrucutra, codigo
+css parte visual, lenguaje de diseño grafico
